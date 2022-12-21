@@ -6,6 +6,8 @@ children and youth in the city of Chicago. My job is to analyze the census, crim
 In this project, I identify potential causes that impact the enrollment, safety, health and environment ratings of schools by answering questions relating to a 
 real world dataset provided by the Chicago Data Portal. 
 
+I have also uploaded a new project that uses the same datasets but utilizes more advanced T-SQL queries such as creating views, creating and running stored procedures, rollback and committing transactions and performing joins on tables. 
+
 Steps to Run the Project:
 
 Note: You must have a local instance of SQL Server already installed on you machine to run the project. You also must have SQL Server Studio Installed. 
